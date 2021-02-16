@@ -1,1 +1,1 @@
-C:\Program Files\clumsy-0.2-win64\clumsy.exe
+C:\path\clumsy.exe
