@@ -47,7 +47,7 @@ Send {Delete}
 Send {Delete}
 Send {Delete}
 Send {Delete}
-Send 80
+Send 70
 Send {Tab}
 Send {Space}
 Send {Tab}
@@ -58,7 +58,7 @@ Send {Delete}
 Send {Delete}
 Send {Delete}
 Send {Delete}
-Send 80
+Send 70
 Send {Tab}
 Send {Space}
 Send {Tab}
@@ -68,7 +68,9 @@ Send {Delete}
 Send {Delete}
 Send {Delete}
 Send {Delete}
-Send 80
+Send 70
+Send {Tab}
+Send {Tab}
 ExitApp
 
 
